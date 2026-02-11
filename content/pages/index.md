@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: por
+      label: creative professional
       color: text-primary
       type: Badge
     elementId: ''
